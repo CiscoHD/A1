@@ -1,0 +1,5 @@
+1. ¿Cuál es el comando para actualizar la fecha?
+2. ¿Qué es una ruta relativa?
+3. ¿Qué es un filtro?
+4. ¿Cuál es el comodín que sustituye un solo caracter?
+5. ¿Qué es un comando externo?
